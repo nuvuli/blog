@@ -1,6 +1,10 @@
 [
   {
-    "name": "2019-01-02__how-to-configure-nuvuli-aws-access",
-    "active": true
+    "path": "2019-01-02__how-to-configure-nuvuli-aws-access",
+    "active": true,
+    "title": "How to Configure Nuvuli for Access to your AWS Account",
+    "keywords": "keywords keywords",
+    "description": "description description",
+    "author": "Ken Bedwell"
   }
 ]
